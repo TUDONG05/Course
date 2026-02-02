@@ -1,0 +1,12 @@
+<course>
+  <student id="sv1">
+    <name>Đồng Văn Tú</name>
+    <age>21</age>
+    <city>Bắc Ninh</city>
+  </student>
+  <student id="sv2">
+    <name>DongTuanAnh</name>
+    <age>28</age>
+    <city>Hai Phong</city>
+  </student>
+</course>
